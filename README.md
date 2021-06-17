@@ -1,6 +1,6 @@
 # fokin-weather
 
-## Idea
+## Summary
 ### 🌞Fokin weather App
 Change icons and screens according to temperature
 
