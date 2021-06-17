@@ -1,8 +1,8 @@
 # fokin-weather
 
 ## Idea
-### 🌞날씨를 알려주는 앱
-온도에 따라 아이콘, 화면 변경
+### 🌞Fokin weather App
+Change icons and screens according to temperature
 
 ## Expo Cli 설치 및 실행
 1. ```npm install -g expo-cli```
