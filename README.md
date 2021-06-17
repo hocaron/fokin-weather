@@ -12,11 +12,11 @@
 
 ## Expo 라이브러리
 https://docs.expo.io/
-* Expo-lacation
+* Expo-lacation  
 ```expo install expo-location```
-* Props
+* Props  
 ```npm install prop-types```
-* Expo-linear-gradient
+* Expo-linear-gradient  
 ```expo install expo-linear-gradient```
 
 ## Open Weather
